@@ -1,0 +1,1 @@
+ //link of teachable macine - https://teachablemachine.withgoogle.com/models/k-DFmrbRQ/
